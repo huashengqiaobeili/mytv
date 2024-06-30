@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="http://epg.tv.cn/liststyle/tvlist/img/dszn.jpg" group-title="央视",电视指南
 http://110.179.80.171:8082/udp/239.1.1.90:8090
-#EXTINF:-1 tvg-id="" tvg-name="北方导视" tvg-logo="http://59.44.9.142/res/front/sub-site/jishi_media/images/logo.png" group-title="辽宁",北方导视
+#EXTINF:-1 tvg-id="" tvg-name="北方导视" tvg-logo="https://fastly.jsdelivr.net/gh/huashengqiaobeili/mytv@main/NCN.png" group-title="辽宁",北方导视
 http://xyt.186738613.xyz/lngd.php?id=187&Cf.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
